@@ -1,0 +1,52 @@
+[
+	{
+		"title": "Begin",
+		"tags": "",
+		"body": "<<Orion>><< bg1>> \nWelcome… or rather, welcome back. You’ve been assigned to the long-abandoned LEO Hotel. Most of its systems haven’t run in years, but now… it’s yours to manage.\n<<Zeta>>\nThis hotel has seen better days. Lights flicker, screens are dusty, and some corridors have been silent for years… yet it still floats here, waiting for someone to take care of it.\n<< Orion>> << bg2>> \nWell, Zeta, can you start a full diagnostic check? I need to know what’s still running.\n<< Zeta>> \nAlright. Let’s go through it one by one. First is atmospheric control. Temperature and humidity are steady, and no contaminants detected. \nHalf of the carbon dioxide is vented out, the rest goes into the Sabatier Reactor. It turns CO₂ and hydrogen into methane and water. Methane gets released, water goes back into the system.\n<< Orion >>\nSo the Sabatier’s alive?\n<< Zeta >>\nBarely, but yes. Efficiency’s not perfect, though.\nCondensed vapor’s being split. Some are stored for drinking, some used for electrolysis that gives us hydrogen and oxygen. Hydrogen feeds the reactor again, oxygen mixes with nitrogen for breathable air.\n<< Orion >>\nGood. How about waste management?\n<< Zeta >>\nStill holding up. Solid wastes are compacted by the TCPS into cubes, waiting for the next resupply burn. Human waste goes through three stages.\nFirst is distillation in the UPA, then brine extraction in the BPA, and final purification in the WPA. The process outputted 98% of the water content back.\n<< Orion >>\nWhat about power systems?\n<< Zeta >>\nSolar arrays are still locked. Batteries are at forty-two percent, so we’ll need to reactivate the panels before the next cycle.\n<< Orion >>\nThermal control?\n<< Zeta >>\nFunctional, at least. The walls are doing their job properly. The coolant loops keep temperature balanced using water and ammonia. Not running full capacity yet, but stable\n<< Orion >>\nAnd the fire systems?\n<< Zeta >>\nThose are down. The smoke detectors aren’t responding, and the circulation fans are off. Suppression units need a full reset.\n<< Orion >> << Cycle1>> \nI guess that’s all. Let’s get to work then!",
+		"position": {
+			"x": 437,
+			"y": 252
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Cycle 2",
+		"tags": "",
+		"body": "<< Zeta>>\nYou might think space is empty... But it’s not.\n<<Zeta>><< bg3>>\nLow Earth Orbit is a debris field. A chaotic junkyard of broken satellites, rocket shards, and even... paint chips.\n<<Orion>>\nPaint chips?\n<<Zeta>>\nYes. Even a fleck of paint, at 18,000 miles per hour, can rip through metal.\n NASA estimates over 500,000 marble-sized objects, and more than 100 million smaller fragments fly at those speeds.\n<<Orion>>\n Can we actually catch them?\n<<Zeta>>\nYes. Several missions  like RemoveDEBRIS have already tested net deployment systems to capture orbital junk.\n<<Orion>>\nA net? In space?\n<<Zeta>> << bg4>> \nCorrect. The net is made of a special reinforced fiber. It’s launched from a small canister module, then expands to envelop the target  especially objects with slow relative motion.\n<<Orion>>\nIs it remote-controlled?\n<<Zeta>>\nNot directly. It usually uses a ballistic launch a precise, one-shot release. Once launched, the net automatically spreads and wraps around the debris.\nIt can then either pull the object into Earth’s atmosphere to burn up, or guide it to an orbital recycling bay.\n<<Orion>>\nThat’s impressive.\n<< Orion>> << bg5>> << /bg4>>\nAlright, Zeta. We’ve been collecting debris... Now it’s time to do something with it.\n<<Zeta>>\nCorrect. This is where the Micro Space Foundry (MSF) comes in, a system designed to melt and reshape orbital junk into usable materials, right here in space\n<<Orion>>\nWait.. we're really going to recycle trash… in orbit?\n<<Zeta>> \nYes. Using high-temperature induction technology, MSF can process metallic debris,like old satellite parts or spent rocket casings into metal feedstock.\n<<Zeta>> \nThis feedstock supports on-site manufacturing, structural repairs, and even propulsion systems.\n << cycle2>>\nyes",
+		"position": {
+			"x": 219,
+			"y": 183
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Cycle 3a",
+		"tags": "",
+		"body": "<< Orion>> << bg2>> \nWhoa… this place’s a mess. How long’s it been like this?\n<< Orion>> << cycle3>> \nUnbelievable… this used to be the best view of Earth. Now it looks like a ghost deck.\n<< cycle3>> \n.",
+		"position": {
+			"x": 703,
+			"y": 114
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Cycle 3b",
+		"tags": "",
+		"body": "<<Orion>><<bg9>>\r\n.\r\n<<bg9>>\r\nWHOAH, what a beautiful view\r\n<<Orion>>\r\nGreat! Not only have we repaired this recreation room, but we also have the souvenir section!\r\n<<Zeta>>\r\nThis souvenir is one of the products of debris recycling. We also sell small pieces of meteor debris here!\r\n<<Orion>>\r\nAmazing!\r\n<< Orion>> << bg1>> \r\nZeta, six visitors are approaching the hotel. Let’s prepare the docking port.\r\n<< Zeta>> \r\n Understood. Initiating alignment with the incoming spacecraft. Approach vector must be within ±0.1° for safe connection.\r\n<< Orion>> << bg6>> \r\nThe Soft Capture System is engaged. This system allows the spacecraft to attach gently while sensors verify structural integrity, alignment, and readiness for full docking.\r\n<< Zeta>> \r\n Hard Capture follows. Pins and latches fully lock the spacecraft, creating a stable mechanical seal for crew and cargo.\r\n<< Orion>> << done>> \r\nFinally, internal pressure equalizes. Pressure stabilizes at 14.7 psi (1 atm), ensuring a safe environment for crew transfer.\r\n<<Orion>> <<bg2>>\r\nPhew! After such work, now it’s time for the promotion!\r\n<<Zeta>>  \r\nDon’t worry about it, our team on Earth is already taking care of it. Let’s see the transmission from the Earth! \r\n<< Zeta>> << popup>>  \r\nLet's see several packages we offer for our guests!\r\n<</popup>> \r\n<<Orion>>  \r\nRemember, I was working with Mr.Best the famous YuTuber, right? What if I broadcast a vlog about a day in our lives at the Orbit Hotel?\r\n<<Zeta>> \r\nCool! I’ll talk about it to our crew as well to secure us a place for promotion in many shows and YouTube channel!\r\n<<Orion>>\r\nYeah, our hotel is indeed really amazing. The tourist can have the unique experiment of space tourism, including being the very first time civil human can sleep in space!\r\n<<Zeta>>\r\nWe also have several other recreations, such as the amazing recreation room with an observatory, a tour to the debris recycling area, and all! I’m sure the promotion gonna explode!\r\n<<Orion>> << bg7>> \r\nWow, the promotion seems to be a huge success! Not only held big events to promote, but they also collaborated with influencers like Melon Musk and Jeep Bezos!\r\n<<Zeta>>  \r\nYep! They also provide a virtual reality experience for tourists to spark their curiosity about the amazing possibilities of real space tourism.\r\n<< rafaelva>> << bg8>> \r\nWOW, the space is amazing!! If the virtual reality is already this beautiful, I wonder what it looks like from your space hotel!\r\n<<rafaelva>>\r\nYou’re right, Honey! We have to book this hotel ASAP for our anniversary!\r\n<<rafaelva>><< yippieyey>> \r\nYippie!\r\n",
+		"position": {
+			"x": 429,
+			"y": 18
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cycle6",
+		"tags": "",
+		"body": "<< Zeta>>  << bg9>> << recre>> \nA massive solar flare has been detected from the Sun. Radiation levels rising Lounge: 230 µSv/h and Medical Bay: 40 µSv/h. Go to Medical Bay immediately! \n<< rafael>> \nRadiation? What does that mean???\n<< Orion>> \nEveryone, stay calm and follow me immediately. Zeta, activate emergency shielding and lockdown protocol.\n<< elva>> \nAre we going to be okay?\n<< Orion>> << medbay>> \nYes. Don’t worry, Medical Bay is the safest place. \n<< elva>> \nWhy the Medical Bay?\n<< Zeta>> \nThe Medical Bay’s walls are built with denser walls and extra shielding. Furthermore, the walls are lined with water tanks and medical storage, both are excellent for absorbing radiation. \nMedical Bay is also equipped with a secondary air filtration system and stocks of oxygen.\n<< Zeta>> \nWarning. Radiation reached 300 Radiation µSv/h, entering the caution zone. Radiation shields are active. Interior Exposure reduced to 40 µSv/h. All personnel are safe.\n<< rafael>> \nWow. This room is amazing.\n<< Orion>> \nIt is. Not to mention, snacks and beverages are available here.\n<< Zeta>> << time>> \nSolar flare impact in progress. Estimated duration: 8 minutes. Please remain calm. You are in the safest zone on board.\n<<Orion>>\nThe solar flare has passed. Radiation levels are back to normal.\n\n<<Visitor>>\nFinally… it’s over. The stars look calm again.\n\n<<Visitor>>\nYes. The station is safe, and all systems are stable. Great job, everyone.\n\n<<Visitor>>\nEven after all that chaos, this place is amazing.\n\n<<Visitor>>\nThe facilities are complete , totally worth staying here!\n\n<<Orion>>\nThat’s exactly what we aim for, safety, comfort, and a view beyond imagination.\n<< happy>> \nYAYYYYYY!!!!",
+		"position": {
+			"x": 604,
+			"y": 290
+		},
+		"colorID": 0
+	}
+]
